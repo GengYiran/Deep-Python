@@ -12,4 +12,11 @@ decoratedFunc()
 
 
 
-def personalizedDecorator()
+def personalizedDecorator(personalize, func):
+	def decorator(func):
+		def decoratedFunc():
+			print("decoration")
+			func()
+		return decoratedFunc
+	return decorator()
+
