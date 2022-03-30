@@ -1,0 +1,456 @@
+{
+  "rootTopicKey": "9b32ab8c-13a8-469c-bed6-ebc2a472d973",
+  "editorRootTopicKey": "9b32ab8c-13a8-469c-bed6-ebc2a472d973",
+  "focusKey": "9b32ab8c-13a8-469c-bed6-ebc2a472d973",
+  "extData": {},
+  "topics": [
+    {
+      "key": "84a226df-ad52-4474-961a-10e230848198",
+      "parentKey": "9b540072-cb64-4c67-9880-94e593b02c16",
+      "subKeys": [
+        "8323b9d6-e570-49ee-b4d2-72d5f6fdf89e"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "10小时"
+        }
+      ]
+    },
+    {
+      "key": "350625ed-21a9-442e-9869-e2f13f76177d",
+      "parentKey": "60729721-562a-4f47-92b2-728dde871e2f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "拓展3小时"
+        }
+      ]
+    },
+    {
+      "key": "17f520a6-ef7e-4d0c-91d6-4314f4288c3c",
+      "parentKey": "60729721-562a-4f47-92b2-728dde871e2f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "PPT4小时"
+        }
+      ]
+    },
+    {
+      "key": "9328e954-406f-4566-ae2f-4eaeace84927",
+      "parentKey": "fbd46ff2-8545-4462-aeb1-66e11a977117",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "梳理4小时"
+        }
+      ]
+    },
+    {
+      "key": "c3f538cf-faa8-4203-b9df-3faa522f57be",
+      "parentKey": "89b9e1f8-ebb6-4fbe-b4c2-646ded979a02",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "20小时"
+        }
+      ]
+    },
+    {
+      "key": "9b540072-cb64-4c67-9880-94e593b02c16",
+      "parentKey": "619b20a1-e338-457a-be8b-8a62c27472e6",
+      "subKeys": [
+        "84a226df-ad52-4474-961a-10e230848198"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "算分"
+        }
+      ]
+    },
+    {
+      "key": "2976f524-0eac-438c-b161-10168732fc9c",
+      "parentKey": "a6ff4535-6ddf-4f92-b9c0-e888cf511ace",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "作业3小时"
+        }
+      ]
+    },
+    {
+      "key": "723918cb-ef60-4d3c-a090-7ab80373a6e5",
+      "parentKey": "619b20a1-e338-457a-be8b-8a62c27472e6",
+      "subKeys": [
+        "60729721-562a-4f47-92b2-728dde871e2f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "概统"
+        }
+      ]
+    },
+    {
+      "key": "411eb59e-8f5e-47d3-80fe-842d506ed390",
+      "parentKey": "2af3de91-02f9-42cd-83b1-e8905d7b8d1a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "40小时"
+        }
+      ]
+    },
+    {
+      "key": "89b9e1f8-ebb6-4fbe-b4c2-646ded979a02",
+      "parentKey": "f80c7e64-f7e8-4053-b966-e6bb2b5205ca",
+      "subKeys": [
+        "c3f538cf-faa8-4203-b9df-3faa522f57be"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "思考+graph+diversity"
+        }
+      ]
+    },
+    {
+      "key": "fbd46ff2-8545-4462-aeb1-66e11a977117",
+      "parentKey": "d237925d-aadb-45a0-9bcc-e57648dcc093",
+      "subKeys": [
+        "9328e954-406f-4566-ae2f-4eaeace84927",
+        "84a98b77-12d2-4c72-b3b3-e4efc41836d3",
+        "19b9bb90-aadd-4d49-a325-7ebf49f2a867"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "10小时"
+        }
+      ]
+    },
+    {
+      "key": "7535cbbc-dc4e-465b-88ec-687dfc4fb300",
+      "parentKey": "a6ff4535-6ddf-4f92-b9c0-e888cf511ace",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "上课2小时"
+        }
+      ]
+    },
+    {
+      "key": "f80c7e64-f7e8-4053-b966-e6bb2b5205ca",
+      "parentKey": "5543a742-d26d-4c29-9e5c-5c3a37a6cd0c",
+      "subKeys": [
+        "89b9e1f8-ebb6-4fbe-b4c2-646ded979a02"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "flow"
+        }
+      ]
+    },
+    {
+      "key": "19b9bb90-aadd-4d49-a325-7ebf49f2a867",
+      "parentKey": "fbd46ff2-8545-4462-aeb1-66e11a977117",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "梳理"
+        }
+      ]
+    },
+    {
+      "key": "84a98b77-12d2-4c72-b3b3-e4efc41836d3",
+      "parentKey": "fbd46ff2-8545-4462-aeb1-66e11a977117",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "作业4小时"
+        }
+      ]
+    },
+    {
+      "key": "a6ff4535-6ddf-4f92-b9c0-e888cf511ace",
+      "parentKey": "b0b31c5c-78d3-4cf5-9ac6-f16a25131e83",
+      "subKeys": [
+        "7535cbbc-dc4e-465b-88ec-687dfc4fb300",
+        "2976f524-0eac-438c-b161-10168732fc9c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "5小时"
+        },
+        {
+          "type": "DESC",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "f1a614f9-122b-4915-a771-dbffdfc64756",
+      "parentKey": "5543a742-d26d-4c29-9e5c-5c3a37a6cd0c",
+      "subKeys": [
+        "2af3de91-02f9-42cd-83b1-e8905d7b8d1a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MARL"
+        }
+      ]
+    },
+    {
+      "key": "2af3de91-02f9-42cd-83b1-e8905d7b8d1a",
+      "parentKey": "f1a614f9-122b-4915-a771-dbffdfc64756",
+      "subKeys": [
+        "411eb59e-8f5e-47d3-80fe-842d506ed390"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "50天冲NIPS\n并行"
+        }
+      ]
+    },
+    {
+      "key": "8323b9d6-e570-49ee-b4d2-72d5f6fdf89e",
+      "parentKey": "84a226df-ad52-4474-961a-10e230848198",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    },
+    {
+      "key": "619b20a1-e338-457a-be8b-8a62c27472e6",
+      "parentKey": "9b32ab8c-13a8-469c-bed6-ebc2a472d973",
+      "subKeys": [
+        "d237925d-aadb-45a0-9bcc-e57648dcc093",
+        "723918cb-ef60-4d3c-a090-7ab80373a6e5",
+        "b0b31c5c-78d3-4cf5-9ac6-f16a25131e83",
+        "9b540072-cb64-4c67-9880-94e593b02c16"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "课内：35"
+        }
+      ]
+    },
+    {
+      "key": "eeda2ec1-9461-4649-a23a-7ce1f6ad4664",
+      "parentKey": "60729721-562a-4f47-92b2-728dde871e2f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "作业3小时"
+        }
+      ]
+    },
+    {
+      "key": "d237925d-aadb-45a0-9bcc-e57648dcc093",
+      "parentKey": "619b20a1-e338-457a-be8b-8a62c27472e6",
+      "subKeys": [
+        "fbd46ff2-8545-4462-aeb1-66e11a977117"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "python"
+        }
+      ]
+    },
+    {
+      "key": "5543a742-d26d-4c29-9e5c-5c3a37a6cd0c",
+      "parentKey": "9b32ab8c-13a8-469c-bed6-ebc2a472d973",
+      "subKeys": [
+        "f1a614f9-122b-4915-a771-dbffdfc64756",
+        "f80c7e64-f7e8-4053-b966-e6bb2b5205ca"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "科研：60"
+        }
+      ]
+    },
+    {
+      "key": "b0b31c5c-78d3-4cf5-9ac6-f16a25131e83",
+      "parentKey": "619b20a1-e338-457a-be8b-8a62c27472e6",
+      "subKeys": [
+        "a6ff4535-6ddf-4f92-b9c0-e888cf511ace"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "英语听力"
+        }
+      ]
+    },
+    {
+      "key": "9b32ab8c-13a8-469c-bed6-ebc2a472d973",
+      "parentKey": null,
+      "subKeys": [
+        "619b20a1-e338-457a-be8b-8a62c27472e6",
+        "5543a742-d26d-4c29-9e5c-5c3a37a6cd0c"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "大二下95小时每周\n早：6：00到12：00\n中：1：00到5：00\n晚：6：00到10：00"
+        }
+      ]
+    },
+    {
+      "key": "60729721-562a-4f47-92b2-728dde871e2f",
+      "parentKey": "723918cb-ef60-4d3c-a090-7ab80373a6e5",
+      "subKeys": [
+        "17f520a6-ef7e-4d0c-91d6-4314f4288c3c",
+        "eeda2ec1-9461-4649-a23a-7ce1f6ad4664",
+        "350625ed-21a9-442e-9869-e2f13f76177d"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "10小时"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 0,
+    "theme": {
+      "name": "theme1",
+      "randomColor": false,
+      "background": "rgb(250,245,205)",
+      "highlightColor": "#50C9CE",
+      "marginH": 50,
+      "marginV": 30,
+      "contentStyle": {
+        "lineHeight": "1.5"
+      },
+      "linkStyle": {
+        "lineRadius": 5
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "background": "rgb(221, 170, 68)",
+          "color": "#fff",
+          "fontSize": "34px",
+          "borderRadius": "5px",
+          "padding": "16px 18px 16px 18px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "2px",
+          "lineColor": "rgb(221, 170, 68)"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "background": "#e8eaec",
+          "borderWidth": "2px",
+          "borderStyle": "solid",
+          "borderColor": "rgb(221, 170, 68)",
+          "borderRadius": "5px",
+          "fontSize": "17px",
+          "padding": "10px 15px 10px 15px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "2px",
+          "lineColor": "rgb(221, 170, 68)"
+        }
+      },
+      "normalTopic": {
+        "contentStyle": {
+          "background": "#fff",
+          "border": "1px solid #e8eaec",
+          "borderRadius": "20px",
+          "color": "rgb(187, 136, 34)",
+          "fontSize": "13px",
+          "padding": "4px 10px"
+        },
+        "subLinkStyle": {
+          "lineType": "round",
+          "lineRadius": 5,
+          "lineWidth": "1px",
+          "lineColor": "rgb(187, 136, 34)"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}

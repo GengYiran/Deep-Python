@@ -1,2 +1,1 @@
-write line 1
-write line 2
+hello, world!bye now
